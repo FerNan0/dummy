@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88CF1099-369C-4274-8191-3932168853C5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEB4D2AF-E683-4BA1-A4C0-B0B9F5107627"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dummy/Scenes/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "doRequestDetail(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEB4D2AF-E683-4BA1-A4C0-B0B9F5107627 - 1c943be2eb9963ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in dummy.DetailViewController.doRequestDetail(url: Swift.String) -&gt; ()"
+                  moduleName = "dummy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernando/Desktop/Utilitarios/dummy/dummy/Scenes/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "FEB4D2AF-E683-4BA1-A4C0-B0B9F5107627 - 2c17c4e60cd3059a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Foundation.Data) -&gt; () in dummy.DetailViewController.doRequestDetail(url: Swift.String) -&gt; ()"
+                  moduleName = "dummy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernando/Desktop/Utilitarios/dummy/dummy/Scenes/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98A465B1-58F6-4D9F-B85D-EA595A0A9C00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dummy/Scenes/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "doRequestDetail(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131883BC-2349-4FB2-9010-E20BAD95CD7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dummy/Scenes/Detail/Cell/DetailCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "configure(imgURL:name:lastName:message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "131883BC-2349-4FB2-9010-E20BAD95CD7E - 306360d65a691b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImage) -&gt; () in dummy.DetailCell.configure(imgURL: Foundation.URL, name: Swift.String, lastName: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "dummy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernando/Desktop/Utilitarios/dummy/dummy/Scenes/Detail/Cell/DetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "131883BC-2349-4FB2-9010-E20BAD95CD7E - a51e796f53195a69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.UIImage) -&gt; () in dummy.DetailCell.configure(imgURL: Foundation.URL, name: Swift.String, lastName: Swift.String, message: Swift.String) -&gt; ()"
+                  moduleName = "dummy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernando/Desktop/Utilitarios/dummy/dummy/Scenes/Detail/Cell/DetailCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
